@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1587485121 source:d:\telyu\matkul\std\tubes3\main.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+
+1587483645 source:d:\telyu\matkul\std\tubes3\novel.cpp
+	<iostream>
+	"novel.h"
+
+1587480212 d:\telyu\matkul\std\tubes3\novel.h
+
+1587484142 source:d:\telyu\matkul\std\tubes3\penulis.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+
+1587483694 d:\telyu\matkul\std\tubes3\penulis.h
+
+1587483645 source:e:\kuliah\semester 2\std\tubes3\novel.cpp
+	<iostream>
+	"novel.h"
+
+1587625166 e:\kuliah\semester 2\std\tubes3\novel.h
+	<iostream>
+
+1587619004 source:e:\kuliah\semester 2\std\tubes3\penulis.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+
+1587625140 e:\kuliah\semester 2\std\tubes3\penulis.h
+	<iostream>
+
+1587644906 source:e:\kuliah\semester 2\std\tubes3\main.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+	"menu.h"
+
+1587644919 e:\kuliah\semester 2\std\tubes3\menu.h
+
+1587645083 source:e:\kuliah\semester 2\std\tubes3\menu.cpp
+	"novel.h"
+	"penulis.h"
+	"menu.h"
+
+1587644906 source:e:\new folder\tubesstd\main.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+	"menu.h"
+
+1587625140 e:\new folder\tubesstd\penulis.h
+	<iostream>
+
+1587625166 e:\new folder\tubesstd\novel.h
+	<iostream>
+
+1587873204 e:\new folder\tubesstd\menu.h
+
+1587483645 source:e:\new folder\tubesstd\novel.cpp
+	<iostream>
+	"novel.h"
+
+1587619004 source:e:\new folder\tubesstd\penulis.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+
+1587873204 source:e:\new folder\tubesstd\menu.cpp
+	"novel.h"
+	"penulis.h"
+	"menu.h"
+
+1587892436 source:c:\users\rvn\documents\github\apaaja\tubesstd\main.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+	"menu.h"
+
+1587986451 c:\users\rvn\documents\github\apaaja\tubesstd\penulis.h
+	<iostream>
+
+1587985406 c:\users\rvn\documents\github\apaaja\tubesstd\novel.h
+	<iostream>
+
+1587983399 c:\users\rvn\documents\github\apaaja\tubesstd\menu.h
+
+1587983333 source:c:\users\rvn\documents\github\apaaja\tubesstd\menu.cpp
+	"novel.h"
+	"penulis.h"
+	"menu.h"
+
+1587983439 source:c:\users\rvn\documents\github\apaaja\tubesstd\novel.cpp
+	<iostream>
+	"novel.h"
+
+1587986388 source:c:\users\rvn\documents\github\apaaja\tubesstd\penulis.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+
+1587892436 source:c:\users\rvn\documents\github\ok\tubesstd\main.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+	"menu.h"
+
+1587986451 c:\users\rvn\documents\github\ok\tubesstd\penulis.h
+	<iostream>
+
+1587985406 c:\users\rvn\documents\github\ok\tubesstd\novel.h
+	<iostream>
+
+1587983399 c:\users\rvn\documents\github\ok\tubesstd\menu.h
+
+1587983333 source:c:\users\rvn\documents\github\ok\tubesstd\menu.cpp
+	"novel.h"
+	"penulis.h"
+	"menu.h"
+
+1587983439 source:c:\users\rvn\documents\github\ok\tubesstd\novel.cpp
+	<iostream>
+	"novel.h"
+
+1587986388 source:c:\users\rvn\documents\github\ok\tubesstd\penulis.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+
+1587892436 source:d:\telyu\matkul\tubesstd\tubesstd\main.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+	"menu.h"
+
+1587986451 d:\telyu\matkul\tubesstd\tubesstd\penulis.h
+	<iostream>
+
+1587985406 d:\telyu\matkul\tubesstd\tubesstd\novel.h
+	<iostream>
+
+1587983399 d:\telyu\matkul\tubesstd\tubesstd\menu.h
+
+1587983333 source:d:\telyu\matkul\tubesstd\tubesstd\menu.cpp
+	"novel.h"
+	"penulis.h"
+	"menu.h"
+
+1587983439 source:d:\telyu\matkul\tubesstd\tubesstd\novel.cpp
+	<iostream>
+	"novel.h"
+
+1587986388 source:d:\telyu\matkul\tubesstd\tubesstd\penulis.cpp
+	<iostream>
+	"penulis.h"
+	"novel.h"
+
